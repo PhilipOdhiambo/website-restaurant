@@ -6,4 +6,4 @@ This website is for my new restaurant.
 
 ### Installation:
 
-Check it out  [here](https://github.io/PhilipOdhiambo/website-restaurant).
+Check it out  [here](https://philipodhiambo.github.io/website-restaurant/).
