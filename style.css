@@ -1,0 +1,28 @@
+
+
+.menu1 {
+    background-color: black;
+    padding: 1rem 0;
+    opacity: 0.5;
+}
+
+.menu2 {
+    padding-top: .5rem;
+}
+.top-menu img {
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+    clip-path: circle();
+}
+
+.landing {
+    background-image: linear-gradient(rgba(0,0,0,.5),rgba(0, 0, 0, .5)), url(./images/restaurant.jpg);
+    color: white;
+}
+
+.hero {
+    margin-top: 10%;
+    color: white;
+}
+
